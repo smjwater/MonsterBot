@@ -9,6 +9,9 @@ Compiling Tools: Maven , JSmooth for exe
 
 How to Use : Download and run executable at MonsterBot\bot\release\MostBot.exe
 
+Current Version:
+https://github.com/smjwater/MonsterBot/blob/master/bot/release/MostBot.exe
+
 Capture Nox Screen Size at the beginning
 
 Press enter and Choose game and level 
